@@ -12,7 +12,7 @@ Ce dépôt contient l'ensemble des applications et outils développés autour de
 ## 📁 Arborescence
 
 ```
-helloasso-suite/
+helloasso-suite-final/
 ├── oauth-authentication/       → App Flask pour authentification HelloAsso
 ├── api-integration-test/       → Tests API HelloAsso (sandbox)
 ├── qr-ticket-validator/        → Scan QR codes à l'entrée des matchs
