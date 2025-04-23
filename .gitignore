@@ -1,0 +1,17 @@
+
+# Environnements virtuels
+venv/
+.env
+
+# Fichiers Python
+*.pyc
+__pycache__/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Données de QR codes
+qr_codes/
